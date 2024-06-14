@@ -1,0 +1,336 @@
+,state,district,year,dyid,nitrate
+93,Gujarat,ahmadabad,2017,Ahmadabad2017,217.7
+133,Maharashtra,akola,2000,Akola2000,154.45454
+304,Maharashtra,amravati,2000,Amravati2000,167.23393
+401,Andhra Pradesh,anantapur,2002,Anantapur2002,165.56599
+404,Andhra Pradesh,anantapur,2005,Anantapur2005,150.18182
+405,Andhra Pradesh,anantapur,2006,Anantapur2006,209.39063
+407,Andhra Pradesh,anantapur,2008,Anantapur2008,204.83333
+413,Andhra Pradesh,anantapur,2014,Anantapur2014,154.63333
+415,Andhra Pradesh,anantapur,2016,Anantapur2016,264.16129
+416,Andhra Pradesh,anantapur,2017,Anantapur2017,150.43478
+417,Andhra Pradesh,anantapur,2018,Anantapur2018,151.78918
+571,Maharashtra,aurangabad,2001,Aurangabad2001,184.72728
+577,Maharashtra,aurangabad,2007,Aurangabad2007,224.0
+579,Bihar,aurangabad,2009,Aurangabad2009,171.0
+581,Bihar,aurangabad,2011,Aurangabad2011,214.39999
+582,Maharashtra,aurangabad,2012,Aurangabad2012,160.58333
+629,Karnataka,bagalkote,2002,Bagalkote2002,175.43124
+637,Karnataka,bagalkote,2010,Bagalkote2010,153.21666
+640,Karnataka,bagalkote,2013,Bagalkote2013,169.92308
+1045,Rajasthan,barmer,2000,Barmer2000,146.21538
+1050,Rajasthan,barmer,2005,Barmer2005,153.54697
+1051,Rajasthan,barmer,2006,Barmer2006,153.21249
+1052,Rajasthan,barmer,2007,Barmer2007,159.08461
+1068,Punjab,barnala,2004,Barnala2004,169.33333
+1163,Punjab,bathinda,2004,Bathinda2004,215.2
+1165,Punjab,bathinda,2006,Bathinda2006,154.35789
+1235,Karnataka,belgaum,2000,Belgaum2000,234.0
+1255,Karnataka,bellary,2001,Bellary2001,146.60001
+1257,Karnataka,bellary,2003,Bellary2003,196.80667
+1264,Karnataka,bellary,2010,Bellary2010,150.88333
+1487,Haryana,bhiwani,2005,Bhiwani2005,180.02222
+1488,Haryana,bhiwani,2006,Bhiwani2006,151.79311
+1492,Haryana,bhiwani,2010,Bhiwani2010,172.7
+1493,Haryana,bhiwani,2011,Bhiwani2011,151.53999
+1496,Haryana,bhiwani,2014,Bhiwani2014,187.97408
+1497,Haryana,bhiwani,2015,Bhiwani2015,201.97516
+1498,Haryana,bhiwani,2016,Bhiwani2016,241.04758
+1499,Haryana,bhiwani,2017,Bhiwani2017,193.1871
+1500,Haryana,bhiwani,2018,Bhiwani2018,151.99156
+1597,Rajasthan,bikaner,2001,Bikaner2001,199.95
+1598,Rajasthan,bikaner,2002,Bikaner2002,196.58095
+1601,Rajasthan,bikaner,2005,Bikaner2005,179.37895
+1602,Rajasthan,bikaner,2006,Bikaner2006,151.13333
+1605,Rajasthan,bikaner,2009,Bikaner2009,161.48462
+1755,Maharashtra,buldhana,2007,Buldhana2007,153.82692
+1756,Maharashtra,buldhana,2008,Buldhana2008,158.75652
+1759,Maharashtra,buldhana,2011,Buldhana2011,157.33449
+1853,Delhi,central,2010,Central2010,156.14999
+1856,Karnataka,chamarajanagara,2002,Chamarajanagara2002,156.42223
+2162,Rajasthan,chittaurgarh,2004,Chittaurgarh2004,171.0
+2168,Rajasthan,chittaurgarh,2010,Chittaurgarh2010,150.0
+2175,Rajasthan,chittaurgarh,2017,Chittaurgarh2017,187.0
+2196,Rajasthan,chittorgarh,2000,Chittorgarh2000,149.14999
+2204,Rajasthan,chittorgarh,2008,Chittorgarh2008,186.09
+2209,Rajasthan,chittorgarh,2013,Chittorgarh2013,248.89999
+2215,Rajasthan,churu,2000,Churu2000,252.33749
+2216,Rajasthan,churu,2001,Churu2001,346.1579
+2217,Rajasthan,churu,2002,Churu2002,205.75
+2219,Rajasthan,churu,2004,Churu2004,204.22223
+2220,Rajasthan,churu,2005,Churu2005,200.55556
+2221,Rajasthan,churu,2006,Churu2006,279.90909
+2222,Rajasthan,churu,2007,Churu2007,267.16251
+2223,Rajasthan,churu,2008,Churu2008,155.05882
+2224,Rajasthan,churu,2009,Churu2009,345.3125
+2225,Rajasthan,churu,2010,Churu2010,320.0
+2227,Rajasthan,churu,2012,Churu2012,227.0
+2228,Rajasthan,churu,2013,Churu2013,261.64706
+2229,Rajasthan,churu,2014,Churu2014,322.66666
+2231,Rajasthan,churu,2016,Churu2016,186.14285
+2232,Rajasthan,churu,2017,Churu2017,225.05304
+2233,Rajasthan,churu,2018,Churu2018,151.786
+2240,Tamilnadu,coimbatore,2006,Coimbatore2006,150.23077
+2603,Madhya Pradesh,dewas,2008,Dewas2008,153.0
+2701,Tamilnadu,dharmapuri,2011,Dharmapuri2011,272.0
+2715,Karnataka,dharwad,2006,Dharwad2006,165.81818
+2728,Rajasthan,dhaulpur,2000,Dhaulpur2000,150.0
+2729,Rajasthan,dhaulpur,2001,Dhaulpur2001,199.0
+2730,Rajasthan,dhaulpur,2002,Dhaulpur2002,149.5
+2732,Rajasthan,dhaulpur,2004,Dhaulpur2004,172.5
+2734,Rajasthan,dhaulpur,2006,Dhaulpur2006,242.0
+2738,Rajasthan,dhaulpur,2010,Dhaulpur2010,770.0
+2739,Rajasthan,dhaulpur,2011,Dhaulpur2011,225.0
+2741,Rajasthan,dhaulpur,2013,Dhaulpur2013,260.0
+2742,Rajasthan,dhaulpur,2014,Dhaulpur2014,202.5
+2744,Rajasthan,dhaulpur,2016,Dhaulpur2016,165.0
+2918,Tamilnadu,dindigul,2000,Dindigul2000,206.10001
+2922,Tamilnadu,dindigul,2004,Dindigul2004,168.3125
+2958,The Dadra And Nagar Haveli And Daman And Diu,diu,2002,Diu2002,160.0
+3261,Haryana,faridabad,2009,Faridabad2009,268.39999
+3271,Punjab,faridkot,2000,Faridkot2000,232.5
+3276,Punjab,faridkot,2005,Faridkot2005,379.57144
+3280,Punjab,faridkot,2009,Faridkot2009,189.5
+3317,Haryana,fatehabad,2008,Fatehabad2008,280.58334
+3324,Haryana,fatehabad,2015,Fatehabad2015,216.5
+3497,Gujarat,gandhinagar,2017,Gandhinagar2017,257.0
+3498,Gujarat,gandhinagar,2018,Gandhinagar2018,168.0
+3533,Odisha,ganjam,2015,Ganjam2015,165.0
+3572,Uttar Pradesh,gautam buddha nagar,2016,Gautam Buddha Nagar2016,146.5
+3822,Andhra Pradesh,guntur,2000,Guntur2000,218.80476
+3824,Andhra Pradesh,guntur,2002,Guntur2002,148.64285
+3827,Andhra Pradesh,guntur,2005,Guntur2005,162.7
+3828,Andhra Pradesh,guntur,2006,Guntur2006,156.14917
+3830,Andhra Pradesh,guntur,2008,Guntur2008,162.56757
+3833,Andhra Pradesh,guntur,2011,Guntur2011,187.89743
+3866,Haryana,gurgaon,2006,Gurgaon2006,190.0
+3867,Haryana,gurgaon,2007,Gurgaon2007,160.66
+3868,Haryana,gurgaon,2008,Gurgaon2008,162.88889
+3869,Haryana,gurgaon,2009,Gurgaon2009,622.0
+3871,Haryana,gurgaon,2011,Gurgaon2011,239.375
+3874,Haryana,gurgaon,2014,Gurgaon2014,197.707
+3880,Madhya Pradesh,gwalior,2001,Gwalior2001,147.5125
+3943,Telangana,hanumakonda,2007,Hanumakonda2007,160.0
+3955,Rajasthan,hanumangarh,2000,Hanumangarh2000,148.21428
+3956,Rajasthan,hanumangarh,2001,Hanumangarh2001,173.72
+3971,Rajasthan,hanumangarh,2016,Hanumangarh2016,178.85834
+4322,Telangana,jagitial,2006,Jagitial2006,218.16
+4323,Telangana,jagitial,2007,Jagitial2007,149.39999
+4365,Rajasthan,jaisalmer,2011,Jaisalmer2011,235.27272
+4366,Rajasthan,jaisalmer,2012,Jaisalmer2012,166.75951
+4441,Maharashtra,jalgaon,2011,Jalgaon2011,161.89999
+4449,Maharashtra,jalna,2000,Jalna2000,177.55
+4451,Maharashtra,jalna,2002,Jalna2002,198.42857
+4455,Maharashtra,jalna,2006,Jalna2006,224.5238
+4456,Maharashtra,jalna,2007,Jalna2007,174.88889
+4457,Maharashtra,jalna,2008,Jalna2008,253.30235
+4458,Maharashtra,jalna,2009,Jalna2009,305.83334
+4459,Maharashtra,jalna,2010,Jalna2010,234.60001
+4460,Maharashtra,jalna,2011,Jalna2011,343.15384
+4461,Maharashtra,jalna,2012,Jalna2012,307.30768
+4478,Rajasthan,jalore,2010,Jalore2010,159.15384
+4481,Rajasthan,jalore,2013,Jalore2013,248.83333
+4484,Rajasthan,jalore,2016,Jalore2016,151.88
+4485,Rajasthan,jalore,2017,Jalore2017,335.0
+4587,Telangana,jangoan,2005,Jangoan2005,178.0
+4588,Telangana,jangoan,2006,Jangoan2006,242.78
+4589,Telangana,jangoan,2007,Jangoan2007,203.16667
+4590,Telangana,jangoan,2008,Jangoan2008,320.25
+4591,Telangana,jangoan,2009,Jangoan2009,421.25
+4592,Telangana,jangoan,2010,Jangoan2010,234.85001
+4593,Telangana,jangoan,2011,Jangoan2011,377.5
+4594,Telangana,jangoan,2012,Jangoan2012,248.25
+4660,Telangana,jayashankar bhupalapally,2002,Jayashankar Bhupalapally2002,151.0
+4664,Telangana,jayashankar bhupalapally,2006,Jayashankar Bhupalapally2006,162.0
+4666,Telangana,jayashankar bhupalapally,2008,Jayashankar Bhupalapally2008,152.5
+4670,Telangana,jayashankar bhupalapally,2012,Jayashankar Bhupalapally2012,152.0
+4724,Haryana,jhajjar,2009,Jhajjar2009,344.625
+4726,Haryana,jhajjar,2011,Jhajjar2011,284.60715
+4728,Haryana,jhajjar,2013,Jhajjar2013,172.2
+4729,Haryana,jhajjar,2014,Jhajjar2014,172.06876
+4731,Haryana,jhajjar,2016,Jhajjar2016,151.98125
+4733,Haryana,jhajjar,2018,Jhajjar2018,167.69461
+4745,Rajasthan,jhalawar,2011,Jhalawar2011,150.10001
+4746,Rajasthan,jhalawar,2012,Jhalawar2012,153.83478
+4747,Rajasthan,jhalawar,2013,Jhalawar2013,147.33333
+4811,Rajasthan,jhunjhunu,2001,Jhunjhunu2001,244.44
+4819,Rajasthan,jhunjhunu,2009,Jhunjhunu2009,176.43286
+4880,Rajasthan,jodhpur,2013,Jodhpur2013,154.5625
+4881,Rajasthan,jodhpur,2014,Jodhpur2014,161.09525
+4882,Rajasthan,jodhpur,2015,Jodhpur2015,177.22223
+4883,Rajasthan,jodhpur,2016,Jodhpur2016,175.42308
+4885,Rajasthan,jodhpur,2018,Jodhpur2018,149.07043
+4888,Telangana,jogulamba gadwal,2002,Jogulamba Gadwal2002,154.25
+4893,Telangana,jogulamba gadwal,2007,Jogulamba Gadwal2007,174.66667
+4896,Telangana,jogulamba gadwal,2010,Jogulamba Gadwal2010,156.0
+4900,Telangana,jogulamba gadwal,2014,Jogulamba Gadwal2014,194.5
+5004,Haryana,kaithal,2004,Kaithal2004,151.25
+5057,Telangana,kamareddy,2000,Kamareddy2000,196.83333
+5059,Telangana,kamareddy,2002,Kamareddy2002,166.16667
+5064,Telangana,kamareddy,2007,Kamareddy2007,157.5
+5066,Telangana,kamareddy,2009,Kamareddy2009,282.0
+5068,Telangana,kamareddy,2011,Kamareddy2011,153.0
+5071,Telangana,kamareddy,2014,Kamareddy2014,216.18182
+5263,Uttar Pradesh,kanpur dehat,2016,Kanpur Dehat2016,233.58
+5419,Tamilnadu,karur,2001,Karur2001,149.44444
+5422,Tamilnadu,karur,2004,Karur2004,174.16667
+5424,Tamilnadu,karur,2006,Karur2006,261.0
+5548,Uttar Pradesh,kaushambi,2016,Kaushambi2016,197.64999
+5614,Telangana,khammam,2006,Khammam2006,238.95454
+5615,Telangana,khammam,2007,Khammam2007,314.0
+5616,Telangana,khammam,2008,Khammam2008,242.27142
+5617,Telangana,khammam,2009,Khammam2009,201.98
+5619,Telangana,khammam,2011,Khammam2011,146.44444
+5621,Telangana,khammam,2013,Khammam2013,185.89999
+5893,Karnataka,koppal,2000,Koppal2000,225.0
+5894,Karnataka,koppal,2001,Koppal2001,239.0
+6063,Tamilnadu,krishnagiri,2018,Krishnagiri2018,402.51477
+6142,Andhra Pradesh,kurnool,2002,Kurnool2002,173.276
+6146,Andhra Pradesh,kurnool,2006,Kurnool2006,172.60001
+6147,Andhra Pradesh,kurnool,2007,Kurnool2007,227.28276
+6148,Andhra Pradesh,kurnool,2008,Kurnool2008,250.228
+6149,Andhra Pradesh,kurnool,2009,Kurnool2009,152.00555
+6152,Andhra Pradesh,kurnool,2012,Kurnool2012,148.57143
+6155,Andhra Pradesh,kurnool,2015,Kurnool2015,171.8613
+6290,Maharashtra,latur,2017,Latur2017,173.75999
+6466,Telangana,mahabubnagar,2003,Mahabubnagar2003,210.0
+6470,Telangana,mahabubnagar,2007,Mahabubnagar2007,186.66667
+6471,Telangana,mahabubnagar,2008,Mahabubnagar2008,184.33333
+6473,Telangana,mahabubnagar,2010,Mahabubnagar2010,170.0
+6476,Telangana,mahabubnagar,2013,Mahabubnagar2013,160.33333
+6477,Telangana,mahabubnagar,2014,Mahabubnagar2014,328.5
+6478,Telangana,mahabubnagar,2015,Mahabubnagar2015,192.5
+6480,Telangana,mahabubnagar,2017,Mahabubnagar2017,323.0
+6481,Telangana,mahabubnagar,2018,Mahabubnagar2018,179.5
+6526,Haryana,mahendragarh,2006,Mahendragarh2006,479.66666
+6527,Haryana,mahendragarh,2007,Mahendragarh2007,247.95
+6528,Haryana,mahendragarh,2008,Mahendragarh2008,314.77499
+6529,Haryana,mahendragarh,2009,Mahendragarh2009,232.0
+6531,Haryana,mahendragarh,2011,Mahendragarh2011,160.0
+6535,Haryana,mahendragarh,2015,Mahendragarh2015,161.26125
+6664,Telangana,mancherial,2011,Mancherial2011,231.14285
+6802,Uttar Pradesh,mathura,2016,Mathura2016,250.57143
+6848,Telangana,medak,2005,Medak2005,238.5
+6849,Telangana,medak,2006,Medak2006,188.75
+6850,Telangana,medak,2007,Medak2007,190.33333
+6851,Telangana,medak,2008,Medak2008,159.66667
+7037,Punjab,muktsar,2004,Muktsar2004,159.16667
+7039,Punjab,muktsar,2006,Muktsar2006,203.45
+7040,Punjab,muktsar,2007,Muktsar2007,167.60001
+7041,Punjab,muktsar,2008,Muktsar2008,221.3
+7042,Punjab,muktsar,2009,Muktsar2009,167.71428
+7043,Punjab,muktsar,2010,Muktsar2010,218.28572
+7044,Punjab,muktsar,2011,Muktsar2011,227.125
+7045,Punjab,muktsar,2012,Muktsar2012,235.0
+7047,Punjab,muktsar,2014,Muktsar2014,200.29111
+7050,Punjab,muktsar,2017,Muktsar2017,177.8
+7051,Punjab,muktsar,2018,Muktsar2018,165.74445
+7261,Telangana,nagarkurnool,2000,Nagarkurnool2000,157.33333
+7264,Telangana,nagarkurnool,2003,Nagarkurnool2003,229.0
+7265,Telangana,nagarkurnool,2004,Nagarkurnool2004,173.0
+7266,Telangana,nagarkurnool,2005,Nagarkurnool2005,186.0
+7267,Telangana,nagarkurnool,2006,Nagarkurnool2006,365.0
+7269,Telangana,nagarkurnool,2008,Nagarkurnool2008,296.0
+7274,Telangana,nagarkurnool,2013,Nagarkurnool2013,294.0
+7286,Rajasthan,nagaur,2006,Nagaur2006,161.875
+7288,Rajasthan,nagaur,2008,Nagaur2008,169.75
+7290,Rajasthan,nagaur,2010,Nagaur2010,202.58
+7291,Rajasthan,nagaur,2011,Nagaur2011,288.3793
+7292,Rajasthan,nagaur,2012,Nagaur2012,154.58333
+7294,Rajasthan,nagaur,2014,Nagaur2014,183.0
+7295,Rajasthan,nagaur,2015,Nagaur2015,146.16667
+7296,Rajasthan,nagaur,2016,Nagaur2016,257.3125
+7298,Rajasthan,nagaur,2018,Nagaur2018,170.75
+7376,Telangana,nalgonda,2001,Nalgonda2001,164.39999
+7377,Telangana,nalgonda,2002,Nalgonda2002,259.39999
+7378,Telangana,nalgonda,2003,Nalgonda2003,178.0
+7379,Telangana,nalgonda,2004,Nalgonda2004,176.0
+7380,Telangana,nalgonda,2005,Nalgonda2005,227.0
+7381,Telangana,nalgonda,2006,Nalgonda2006,318.25
+7382,Telangana,nalgonda,2007,Nalgonda2007,333.0
+7383,Telangana,nalgonda,2008,Nalgonda2008,276.0
+7385,Telangana,nalgonda,2010,Nalgonda2010,221.16667
+7394,Tamilnadu,namakkal,2000,Namakkal2000,156.0
+7396,Tamilnadu,namakkal,2002,Namakkal2002,190.53847
+7398,Tamilnadu,namakkal,2004,Namakkal2004,197.94118
+7399,Tamilnadu,namakkal,2005,Namakkal2005,250.1579
+7400,Tamilnadu,namakkal,2006,Namakkal2006,193.74762
+7401,Tamilnadu,namakkal,2007,Namakkal2007,185.76923
+7451,Telangana,narayanpet,2000,Narayanpet2000,214.0
+7453,Telangana,narayanpet,2002,Narayanpet2002,179.0
+7457,Telangana,narayanpet,2006,Narayanpet2006,346.66666
+7459,Telangana,narayanpet,2008,Narayanpet2008,336.0
+7541,Madhya Pradesh,narsinghpur,2014,Narsinghpur2014,157.0
+7648,Delhi,new delhi,2007,New Delhi2007,800.0
+7651,Delhi,new delhi,2010,New Delhi2010,158.33333
+7665,Telangana,nirmal,2013,Nirmal2013,199.05556
+7808,Haryana,nuh,2009,Nuh2009,188.11111
+7917,Haryana,palwal,2004,Palwal2004,167.54546
+7920,Haryana,palwal,2007,Palwal2007,159.33
+7958,Haryana,panchkula,2007,Panchkula2007,244.0
+8199,Telangana,peddapalli,2001,Peddapalli2001,200.0
+8210,Telangana,peddapalli,2012,Peddapalli2012,168.5
+8213,Telangana,peddapalli,2015,Peddapalli2015,192.0
+8299,Andhra Pradesh,prakasam,2006,Prakasam2006,203.45714
+8656,Telangana,rajanna sircilla,2002,Rajanna Sircilla2002,193.33333
+8660,Telangana,rajanna sircilla,2006,Rajanna Sircilla2006,148.0
+8662,Telangana,rajanna sircilla,2008,Rajanna Sircilla2008,908.0
+8663,Telangana,rajanna sircilla,2009,Rajanna Sircilla2009,151.33333
+8669,Telangana,rajanna sircilla,2015,Rajanna Sircilla2015,159.0
+8670,Telangana,rajanna sircilla,2016,Rajanna Sircilla2016,160.0
+8671,Telangana,rajanna sircilla,2017,Rajanna Sircilla2017,228.0
+9024,Haryana,rewari,2009,Rewari2009,525.33331
+9027,Haryana,rewari,2012,Rewari2012,165.71428
+9031,Haryana,rewari,2016,Rewari2016,180.36363
+9057,Haryana,rohtak,2004,Rohtak2004,267.35626
+9062,Haryana,rohtak,2009,Rohtak2009,169.25
+9063,Haryana,rohtak,2010,Rohtak2010,286.14285
+9065,Haryana,rohtak,2012,Rohtak2012,194.27692
+9239,Punjab,sahibzada ajit singh nagar,2015,Sahibzada Ajit Singh Nagar2015,165.38333
+9240,Punjab,sahibzada ajit singh nagar,2016,Sahibzada Ajit Singh Nagar2016,162.8
+9326,Telangana,sangareddy,2007,Sangareddy2007,150.75
+9473,Rajasthan,sawai madhopur,2002,Sawai Madhopur2002,179.33333
+9486,Rajasthan,sawai madhopur,2015,Sawai Madhopur2015,322.5394
+9758,Telangana,siddipet,2002,Siddipet2002,217.5
+9764,Telangana,siddipet,2008,Siddipet2008,220.0
+9768,Telangana,siddipet,2012,Siddipet2012,248.0
+9769,Telangana,siddipet,2013,Siddipet2013,298.5
+9770,Telangana,siddipet,2014,Siddipet2014,280.0
+9799,Rajasthan,sikar,2005,Sikar2005,209.33333
+9917,Haryana,sirsa,2009,Sirsa2009,165.15161
+10045,Maharashtra,solapur,2004,Solapur2004,161.71428
+10105,Haryana,sonipat,2007,Sonipat2007,234.71053
+10212,Delhi,south west,2000,South West2000,154.11375
+10232,Delhi,south,2009,South2009,214.375
+10374,Chhattisgarh,surajpur,2007,Surajpur2007,175.0
+10444,Telangana,suryapet,2001,Suryapet2001,184.0
+10461,Telangana,suryapet,2018,Suryapet2018,160.98947
+10583,Tamilnadu,theni,2007,Theni2007,163.75
+10588,Tamilnadu,theni,2012,Theni2012,148.31429
+10589,Tamilnadu,theni,2013,Theni2013,154.2
+10590,Tamilnadu,theni,2014,Theni2014,221.0
+10653,Tamilnadu,thoothukkudi,2001,Thoothukkudi2001,225.54546
+10786,Tamilnadu,tiruppur,2001,Tiruppur2001,160.88
+10790,Tamilnadu,tiruppur,2005,Tiruppur2005,167.11765
+10791,Tamilnadu,tiruppur,2006,Tiruppur2006,185.3
+11164,Tamilnadu,vellore,2018,Vellore2018,626.33429
+11319,Telangana,wanaparthy,2002,Wanaparthy2002,169.0
+11321,Telangana,wanaparthy,2004,Wanaparthy2004,205.5
+11323,Telangana,wanaparthy,2006,Wanaparthy2006,230.0
+11324,Telangana,wanaparthy,2007,Wanaparthy2007,172.60001
+11348,Telangana,warangal rural,2012,Warangal Rural2012,292.39999
+11351,Telangana,warangal rural,2015,Warangal Rural2015,339.75
+11537,Madhya Pradesh,west nimar,2011,West Nimar2011,151.64444
+11539,Madhya Pradesh,west nimar,2013,West Nimar2013,176.0
+11573,Delhi,west,2009,West2009,193.83333
+11574,Delhi,west,2010,West2010,474.0
+11600,Andhra Pradesh,y.s.r.,2006,Y.S.R.2006,150.10074
+11613,Telangana,yadadri bhuvanagiri,2000,Yadadri Bhuvanagiri2000,304.5
+11619,Telangana,yadadri bhuvanagiri,2006,Yadadri Bhuvanagiri2006,348.0
+11620,Telangana,yadadri bhuvanagiri,2007,Yadadri Bhuvanagiri2007,254.0
+11621,Telangana,yadadri bhuvanagiri,2008,Yadadri Bhuvanagiri2008,242.0
+11622,Telangana,yadadri bhuvanagiri,2009,Yadadri Bhuvanagiri2009,267.0
+11624,Telangana,yadadri bhuvanagiri,2011,Yadadri Bhuvanagiri2011,200.0
+11625,Telangana,yadadri bhuvanagiri,2012,Yadadri Bhuvanagiri2012,984.0
+11626,Telangana,yadadri bhuvanagiri,2013,Yadadri Bhuvanagiri2013,159.0
+11650,Karnataka,yadgir,2018,Yadgir2018,197.3791
