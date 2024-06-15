@@ -129,7 +129,7 @@ The purpose of this project is to examine whether the Environmental Kuznets Curv
 - **Details:** Identified significant gaps in nitrate values, with 4612 out of 11651 data points missing. Some states had more than 70% of their data missing. Decisions on how to handle these missing values were crucial for the integrity of the analysis.
 - **Approaches:**
   - **Complete Case Analysis:** Created one dataset where all missing data points were dropped.
-  - **Mean Imputation:** Formed a second dataset where missing values were replaced with the state-wise means for each respective state.
+  - **Mean Imputation:** Formed a second dataset where missing values were replaced with the state-wise means for each respective state. And states with more than 66% of missing data were excluded.
   - **District Level Mean Imputation:** Created a third dataset where districts with more than 66% missing data were excluded, and remaining missing points were imputed using district-level averages.
 
 #### Outlier Detection and Management
@@ -311,7 +311,29 @@ From the high value of the t statistic it is evident that in our case the outlie
 ## Discussions
 
 ### Interpretation of Results
+Our findings indicate that nitrate levels are generally higher in most regions compared to the northeastern states, except for the eastern region which shows lower levels. This variation could be attributed to differences in industrial activities, agricultural practices, and urbanization levels across regions.
+
+The increasing trend in nitrate levels over time suggests that economic development initially leads to greater environmental degradation. However, the varied impact across regions hints at the influence of local policies, environmental regulations, and the economic structure of each region on pollution levels.
+
+The results align with the Environmental Kuznets Curve hypothesis, which predicts that pollution will rise with economic growth up to a certain income level, after which it will begin to decline. The reason behind this pattern could be that higher income levels enable better infrastructure for pollution control and greater public awareness about environmental issues.
 
 ### Limitations and Future Directions
-
+- We can see that we already do not have any data for the following states:
+	- Mizoram
+	- Lakshadweep
+	- Manipur
+	- Sikkim
+- From a basic analysis we see that the data for 17 districts is missing from the data and 
+- 8 of these belong to Jammu and Kashmir and the other belong to various other states.
+- Also in our dataset due to the missing data we have to exclude the following states:
+  - Nagaland
+  - Bihar
+  - Jharkhand
+  - Meghalaya
+  - Arunachal Pradesh
+  - Odisha
+  - Uttar Pradesh
+  - Assam
+- And therefore our results or interpretations are not applicable to these states.
 ## Conclusion
+In summary, our analysis supports the idea that while economic growth is often accompanied by environmental challenges, the extent of these challenges can vary significantly based on regional characteristics and developmental stages.
