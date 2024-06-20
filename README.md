@@ -1,5 +1,5 @@
 # Analysis of Evironmental Kuznets Curve on Groundwater Quality in India
-This project focuses on the analysis of State Domestic Product (SDP) and Ground Water Quality (GWQ) data across various states in India, examining economic and environmental factors from 2000 to 2011. Our goal is to identify trends, outliers, and potential data discrepancies that could influence policy-making and economic strategy.
+This project focuses on the analysis of State Domestic Product (SDP) and Ground Water Quality (GWQ) data across various states in India, examining economic and environmental factors from 2000 to 2011. Our goal is to identify trends, outliers, and potential data discrepancies that could influence policymaking and economic strategy.
 
 ## Table of Contents
 - [Analysis of Evironmental Kuznets Curve on Groundwater Quality in India](#analysis-of-evironmental-kuznets-curve-on-groundwater-quality-in-india)
@@ -64,8 +64,8 @@ The purpose of this project is to examine whether the Environmental Kuznets Curv
 
 #### Groundwater Quality Data
 - **Data Description:** Groundwater quality (GWQ) data, measured in milligrams per liter, covering all Indian districts from 2000 to 2019.
-- **Source:** 
-
+- **Source:**  Environmental Statistics Reports released by the Ministry of Statistics and Programme Implementation with National Data and Analytics Portal (NDAP) as the aggregator.
+- **Link:** [NDAP - Groundwater Quality Data](https://docs.google.com/spreadsheets/d/1xNusD7ldsYqcMJoXpPzpO1sL4FGJnRZxHUdSRD192Hs/edit?usp=sharing)
 #### State Economic Output Data
 - **Data Description:** State-year wise economic output, specifically net state domestic product (SDP) at constant prices.
 - **Source:** Reserve Bank of India (RBI), accessed through the Database for the Indian Economy (DBIE) portal.
@@ -226,7 +226,7 @@ From the high value of the t statistic it is evident that in our case the outlie
 
 </div>
 
-> **Note:** We achieve somewhat similar results results in our basic regression analysis and so we decide to move forward only with the dataset 2 because of the fact that it has the highest number of observation as well as it will help us in interpretation as we see later on.
+> **Note:** We achieve somewhat similar results in our basic regression analysis, and so we decide to move forward only with the dataset 2 because it has the highest number of observation as well as it will help us in interpretation as we see later on.
 
 | Variable Name | Coefficient | Standard Error | T-stat | Confidence Interval | R-squared | Observations | F-stat |
 | ------------- | ----------- | -------------- | ------ | ------------------- | --------- | ------------ | ------ |
@@ -251,7 +251,7 @@ From the high value of the t statistic it is evident that in our case the outlie
 </div>
 
 ##### Analysis Over Time
-- To quantify the effect of years on the the model we will consider a new dummy variable by the name time and set it's value to year-200 for that respective data point. 
+- To quantify the effect of years on the model we will consider a new dummy variable by the name time and set its value to year-200 for that respective data point. 
 - This will effectively set the values of outliers ranging from 0 to 18.
 - After this we will just run a regression to test the statistical significance of this variable.
 
@@ -289,7 +289,7 @@ From the high value of the t statistic it is evident that in our case the outlie
 | south         | 25.2794     | 3.596          | 7.031   |           |              |        |
 
 - Here the baseline is represented by the north-eastern states.
-- From our regression analysis we can infer that most geographical regions show an increase in nitrate levels with respect to north eastern regions except for the the eastern region.
+- From our regression analysis we can infer that most geographical regions show an increase in nitrate levels with respect to north-eastern regions except for the eastern region.
 
 ##### Summary Statistics
 | Index      | Count    | Mean               | Std               | Min         | Max               |
